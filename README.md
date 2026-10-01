@@ -51,7 +51,7 @@ The primary design emphasis is placed on facilitating the instructor's evaluatio
 
 A visual representation of what users expect to solve and what the design solution aims to provide. The main pain points identified are the fragmentation of feedback delivery, the lack of criterion-level clarity for students, and the high administrative burden on instructors when evaluating oral presentations. EvalLoop addresses these by centralising rubric-based assessment, surfacing actionable feedback at the criterion level, and enabling instructors to complete evaluations with minimal friction.
 
-<img width="1920" height="1080" alt="Value Proposition Canvas — EvalLoop" src="assets/images/Value Proposition Canvas.png" />
+<img width="1920" height="1080" alt="Value Proposition Canvas — EvalLoop" src="assets/images/Value_Proposition_Canvas_eng.png" />
 
 ---
 
