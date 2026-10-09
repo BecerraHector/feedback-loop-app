@@ -15,6 +15,7 @@ A UX design project focused on standardizing and streamlining the oral presentat
 - [3. Strategy Phase](#3-strategy-phase)
   - [3.1 Value Proposition Canvas](#31-value-proposition-canvas)
   - [3.2 UX Personas](#32-ux-personas)
+  - [3.3 Benchmarking](#33-benchmarking)
 
 ---
 
@@ -81,6 +82,28 @@ Three user archetypes were defined to capture the full range of needs across bot
 <img width="1920" height="1080" alt="UX Persona — Aina Solar" src="assets/images/Persona3.png" />
 
 > *"As an out-of-town student, I need my grades and feedback on time because I have very little free time."*
+
+---
+
+### 3.3 Benchmarking
+
+To design an evaluation tool that genuinely improves the feedback loop between instructors and students, it was essential to study existing platforms — both direct competitors in the educational assessment space and indirect references recognised for strong usability patterns.
+
+The goal was to identify what current solutions do well, where they fall short, and which interaction patterns are worth adopting, adapting, or deliberately avoiding in EvalLoop.
+
+#### Platforms analysed:
+
+- 🎥 **GoReact** — video-based presentation evaluation with time-stamped comments and one-click markers.
+- 🏫 **Campus Virtual (UFRO)** — rubric-based assignment grading used in the institutional context.
+- 📋 **Google Classroom** — assignment management and grade return used as a workflow reference.
+- 🎮 **Duolingo** — indirect reference for progress feedback, goal-setting UX, and habit-forming patterns.
+
+<img width="1920" height="1080" alt="Benchmarking — EvalLoop" src="assets/images/Benchmark.jpeg" />
+
+Key takeaways for EvalLoop:
+- **Adopt** one-tap criterion markers (GoReact) and a grade-then-return workflow with status counters (Google Classroom).
+- **Adapt** rubric presentation as interactive buttons per criterion rather than dense text tables (Campus Virtual), and positive progress feedback without punitive mechanics (Duolingo).
+- **Avoid** dual rating mechanisms that require memorisation, flat image-based rubrics that cannot be scaled or reused, and guilt-driven notifications.
 
 ---
 
