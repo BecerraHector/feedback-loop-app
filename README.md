@@ -111,7 +111,7 @@ Key takeaways for EvalLoop:
 ---
 
 ## 4. Scope Phase
----
+
 ### 4.1 Customer Journey Map
 Based on our user personas and benchmark analysis, this Customer Journey Map illustrates the complete evaluation flow for professors using EvalLoop across four main stages (Information Search, Comparison, Booking and Travel)
 By mapping touchpoints against value, barriers, and opportunities, the journey shows how EvalLoop reduces live grading friction and transforms evaluation into a smooth, impactful learning process.
