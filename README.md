@@ -17,6 +17,9 @@ A UX design project focused on standardizing and streamlining the oral presentat
   - [3.2 UX Personas](#32-ux-personas)
   - [3.3 Benchmarking](#33-benchmarking)
 
+- [4. Scope phase](#4-scope-phase)
+  - [4.1 Customer Journey Map](#41-customer-journey-map)
+    
 ---
 
 ## 1. Introduction
@@ -107,4 +110,22 @@ Key takeaways for EvalLoop:
 
 ---
 
+## 4. Scope Phase
+---
+### 4.1 Customer Journey Map
+Based on our user personas and benchmark analysis, this Customer Journey Map illustrates the complete evaluation flow for professors using EvalLoop across four main stages (Information Search, Comparison, Booking and Travel)
+By mapping touchpoints against value, barriers, and opportunities, the journey shows how EvalLoop reduces live grading friction and transforms evaluation into a smooth, impactful learning process.
+
+<img width="1920" height="1080" alt="Customer Jouney Map - EvalLoop" src="assets/images/customer-journey-map.png" />
+
+key journey stages:
+- Information Search: Pre-class rubric setup, criteria customization, and alignment with academic evaluation standards.
+- Comparison: Live presentation scoring in the classroom with fast-input tools to reduce cognitive load.
+- Booking: Professor review and confirmation of scores, followed by transparent, criterion-based feedback publishing to students.
+- Travel: Continuous student performance tracking and long-term learning progress comparison.
+
+
+---
+
 *Course: User Experience Design | 2026*
+
