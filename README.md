@@ -17,9 +17,12 @@ A UX design project focused on standardizing and streamlining the oral presentat
   - [3.2 UX Personas](#32-ux-personas)
   - [3.3 Benchmarking](#33-benchmarking)
 
-- [4. Scope phase](#4-scope-phase)
+- [4. Scope Phase](#4-scope-phase)
   - [4.1 Customer Journey Map](#41-customer-journey-map)
-    
+
+- [5. Skeleton Phase](#5-skeleton-phase)
+  - [5.1 Low-Fidelity Wireframes](#51-low-fidelity-wireframes)
+
 ---
 
 ## 1. Introduction
@@ -124,6 +127,39 @@ key journey stages:
 - Booking: Professor review and confirmation of scores, followed by transparent, criterion-based feedback publishing to students.
 - Travel: Continuous student performance tracking and long-term learning progress comparison.
 
+
+---
+
+## 5. Skeleton Phase
+
+### 5.1 Low-Fidelity Wireframes
+
+Low-fidelity wireframes were developed to define the structural skeleton of EvalLoop across six core user flows. The goal was to distribute information across each screen for both user roles — instructor and student — keeping interaction patterns simple and friction minimal before committing to visual design.
+
+The six flows covered are:
+
+1. **Access** — login and account creation for both roles.
+2. **Live evaluation and feedback loop** — rubric-based scoring during the presentation, AI-assisted feedback drafting, instructor review, student results panel, and action plan confirmation.
+3. **Instructor registration with automatic course assignment** — institutional email-based onboarding.
+4. **Create evaluation** — rubric builder with criteria, performance levels, and weightings.
+5. **Schedule a review meeting** — student-side flow to book a feedback session with the instructor.
+6. **Publish availability** — instructor-side flow to define and publish available time slots.
+
+📁 **[Low-Fi Wireframes — EvalLoop (Figma)](https://www.figma.com/design/m44jvVsws0cxG8fcQMYW4v/UX-PROYECTO?node-id=125-2&p=f&t=2IZgIh1wqaPZKGi5-0)**
+
+📄 **[Low-Fi Wireframes — EvalLoop (PDF)](documents/Low-fi%20wireframes.pdf)**
+
+#### Flow 2 · Live evaluation (instructor)
+
+<img width="1920" height="1080" alt="Wireframe — Live Evaluation" src="assets/images/wireframe-live-evaluation.png" />
+
+#### Flow 2 · Results panel (student)
+
+<img width="1920" height="1080" alt="Wireframe — Results Panel" src="assets/images/wireframe-results-panel.png" />
+
+#### Flow 4 · Rubric builder (instructor)
+
+<img width="1920" height="1080" alt="Wireframe — Rubric Builder" src="assets/images/wireframe-rubric-builder.png" />
 
 ---
 
