@@ -1,4 +1,4 @@
-# EvalLoop — Oral Presentation Feedback
+# Loop — Oral Presentation Feedback
 
 A UX design project focused on standardizing and streamlining the oral presentation evaluation process, enabling instructors to deliver structured feedback efficiently and students to act on it meaningfully.
 
@@ -35,7 +35,7 @@ Feedback on oral presentations arrives late and scattered — rubric scores on s
 
 ### 1.2 The proposed solution
 
-EvalLoop is a UX design project that addresses the feedback loop between instructor and student during oral evaluations. The solution focuses on two parallel surfaces:
+Loop is a UX design project that addresses the feedback loop between instructor and student during oral evaluations. The solution focuses on two parallel surfaces:
 
 - **For instructors:** a streamlined, rubric-based evaluation flow that allows them to score criteria and attach specific comments during or immediately after a presentation, minimising the administrative overhead of grading.
 - **For students:** a clear, criterion-level feedback view that shows exactly what failed, what a concrete corrective action looks like, and whether performance improved compared to a previous evaluation.
@@ -56,9 +56,9 @@ The primary design emphasis is placed on facilitating the instructor's evaluatio
 
 ### 3.1 Value Proposition Canvas
 
-A visual representation of what users expect to solve and what the design solution aims to provide. The main pain points identified are the fragmentation of feedback delivery, the lack of criterion-level clarity for students, and the high administrative burden on instructors when evaluating oral presentations. EvalLoop addresses these by centralising rubric-based assessment, surfacing actionable feedback at the criterion level, and enabling instructors to complete evaluations with minimal friction.
+A visual representation of what users expect to solve and what the design solution aims to provide. The main pain points identified are the fragmentation of feedback delivery, the lack of criterion-level clarity for students, and the high administrative burden on instructors when evaluating oral presentations. Loop addresses these by centralising rubric-based assessment, surfacing actionable feedback at the criterion level, and enabling instructors to complete evaluations with minimal friction.
 
-<img width="1920" height="1080" alt="Value Proposition Canvas — EvalLoop" src="assets/images/Value_Proposition_Canvas_eng.png" />
+<img width="1920" height="1080" alt="Value Proposition Canvas — Loop" src="assets/images/Value_Proposition_Canvas_eng.png" />
 
 ---
 
@@ -95,7 +95,7 @@ Three user archetypes were defined to capture the full range of needs across bot
 
 To design an evaluation tool that genuinely improves the feedback loop between instructors and students, it was essential to study existing platforms — both direct competitors in the educational assessment space and indirect references recognised for strong usability patterns.
 
-The goal was to identify what current solutions do well, where they fall short, and which interaction patterns are worth adopting, adapting, or deliberately avoiding in EvalLoop.
+The goal was to identify what current solutions do well, where they fall short, and which interaction patterns are worth adopting, adapting, or deliberately avoiding in Loop.
 
 #### Platforms analysed:
 
@@ -104,9 +104,9 @@ The goal was to identify what current solutions do well, where they fall short, 
 - 📋 **Google Classroom** — assignment management and grade return used as a workflow reference.
 - 🎮 **Duolingo** — indirect reference for progress feedback, goal-setting UX, and habit-forming patterns.
 
-<img width="1920" height="1080" alt="Benchmarking — EvalLoop" src="assets/images/Benchmark.jpeg" />
+<img width="1920" height="1080" alt="Benchmarking — Loop" src="assets/images/Benchmark.jpeg" />
 
-Key takeaways for EvalLoop:
+Key takeaways for Loop:
 - **Adopt** one-tap criterion markers (GoReact) and a grade-then-return workflow with status counters (Google Classroom).
 - **Adapt** rubric presentation as interactive buttons per criterion rather than dense text tables (Campus Virtual), and positive progress feedback without punitive mechanics (Duolingo).
 - **Avoid** dual rating mechanisms that require memorisation, flat image-based rubrics that cannot be scaled or reused, and guilt-driven notifications.
@@ -116,10 +116,10 @@ Key takeaways for EvalLoop:
 ## 4. Scope Phase
 
 ### 4.1 Customer Journey Map
-Based on our user personas and benchmark analysis, this Customer Journey Map illustrates the complete evaluation flow for professors using EvalLoop across four main stages (Information Search, Comparison, Booking and Travel)
-By mapping touchpoints against value, barriers, and opportunities, the journey shows how EvalLoop reduces live grading friction and transforms evaluation into a smooth, impactful learning process.
+Based on our user personas and benchmark analysis, this Customer Journey Map illustrates the complete evaluation flow for professors using Loop across four main stages (Information Search, Comparison, Booking and Travel)
+By mapping touchpoints against value, barriers, and opportunities, the journey shows how Loop reduces live grading friction and transforms evaluation into a smooth, impactful learning process.
 
-<img width="1920" height="1080" alt="Customer Jouney Map - EvalLoop" src="assets/images/customer-journey-map.png" />
+<img width="1920" height="1080" alt="Customer Jouney Map - Loop" src="assets/images/customer-journey-map.png" />
 
 key journey stages:
 - Information Search: Pre-class rubric setup, criteria customization, and alignment with academic evaluation standards.
@@ -134,7 +134,7 @@ key journey stages:
 
 ### 5.1 Low-Fidelity Wireframes
 
-Low-fidelity wireframes were developed to define the structural skeleton of EvalLoop across six core user flows. The goal was to distribute information across each screen for both user roles — instructor and student — keeping interaction patterns simple and friction minimal before committing to visual design.
+Low-fidelity wireframes were developed to define the structural skeleton of Loop across six core user flows. The goal was to distribute information across each screen for both user roles — instructor and student — keeping interaction patterns simple and friction minimal before committing to visual design.
 
 The six flows covered are:
 
@@ -145,9 +145,9 @@ The six flows covered are:
 5. **Schedule a review meeting** — student-side flow to book a feedback session with the instructor.
 6. **Publish availability** — instructor-side flow to define and publish available time slots.
 
-📁 **[Low-Fi Wireframes — EvalLoop (Figma)](https://www.figma.com/design/m44jvVsws0cxG8fcQMYW4v/UX-PROYECTO?node-id=125-2&p=f&t=2IZgIh1wqaPZKGi5-0)**
+📁 **[Low-Fi Wireframes — Loop (Figma)](https://www.figma.com/design/m44jvVsws0cxG8fcQMYW4v/UX-PROYECTO?node-id=125-2&p=f&t=2IZgIh1wqaPZKGi5-0)**
 
-📄 **[Low-Fi Wireframes — EvalLoop (PDF)](documents/Low-fi%20wireframes.pdf)**
+📄 **[Low-Fi Wireframes — Loop (PDF)](documents/Low-fi%20wireframes.pdf)**
 
 #### Flow 2 · Live evaluation (instructor)
 
